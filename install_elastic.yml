@@ -1,4 +1,4 @@
 - name: Install Elastic
   hosts: all
   roles:
-    - role: elastic.elasticsearch
+    - role: ansible-elasticsearch
