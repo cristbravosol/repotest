@@ -1,2 +1,1 @@
----
-src: https://github.com/elastic/ansible-elasticsearch
+- src: https://github.com/elastic/ansible-elasticsearch
